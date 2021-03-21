@@ -1,0 +1,23 @@
+.main-bg{
+    background:rgb(29, 29, 29);
+    /* background-size: 100em 100em; */
+    height:100vh;
+    width:100vw;
+    padding:1em;
+}
+h2{
+    margin:0;
+    color:white;
+}
+.container{
+    /* margin:0.5em; */
+    
+    background:white;
+    width:95%;
+    height:auto;
+}
+@media (min-width:400px){
+    .main-bg{
+        margin:0 0 0 12.5em;
+    }
+}
